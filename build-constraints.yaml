@@ -5150,6 +5150,9 @@ packages:
         - rel8
         - logging-effect
 
+    "David Binder <david.binder@uni-tuebingen.de> @BinderDavid":
+        - eventlog2html
+
     "Grzegorz Milka <grzegorzmilka@gmail.com> @gregorias":
         - trimdent
 
